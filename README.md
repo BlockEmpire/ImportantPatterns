@@ -1,0 +1,2 @@
+# ImportantPatterns
+Identify candlestick patterns
